@@ -1,0 +1,15 @@
+C:\Users\Vain\source\repos\Pass_Generator\Pass_Generator\Pass_Generator\bin\Debug\Pass_Generator.exe.config
+C:\Users\Vain\source\repos\Pass_Generator\Pass_Generator\Pass_Generator\bin\Debug\Pass_Generator.exe
+C:\Users\Vain\source\repos\Pass_Generator\Pass_Generator\Pass_Generator\bin\Debug\Pass_Generator.pdb
+C:\Users\Vain\source\repos\Pass_Generator\Pass_Generator\Pass_Generator\obj\Debug\Pass_Generator.csprojAssemblyReference.cache
+C:\Users\Vain\source\repos\Pass_Generator\Pass_Generator\Pass_Generator\obj\Debug\MainWindow.g.cs
+C:\Users\Vain\source\repos\Pass_Generator\Pass_Generator\Pass_Generator\obj\Debug\App.g.cs
+C:\Users\Vain\source\repos\Pass_Generator\Pass_Generator\Pass_Generator\obj\Debug\Pass_Generator_MarkupCompile.cache
+C:\Users\Vain\source\repos\Pass_Generator\Pass_Generator\Pass_Generator\obj\Debug\Pass_Generator_MarkupCompile.lref
+C:\Users\Vain\source\repos\Pass_Generator\Pass_Generator\Pass_Generator\obj\Debug\MainWindow.baml
+C:\Users\Vain\source\repos\Pass_Generator\Pass_Generator\Pass_Generator\obj\Debug\Pass_Generator.g.resources
+C:\Users\Vain\source\repos\Pass_Generator\Pass_Generator\Pass_Generator\obj\Debug\Pass_Generator.Properties.Resources.resources
+C:\Users\Vain\source\repos\Pass_Generator\Pass_Generator\Pass_Generator\obj\Debug\Pass_Generator.csproj.GenerateResource.cache
+C:\Users\Vain\source\repos\Pass_Generator\Pass_Generator\Pass_Generator\obj\Debug\Pass_Generator.csproj.CoreCompileInputs.cache
+C:\Users\Vain\source\repos\Pass_Generator\Pass_Generator\Pass_Generator\obj\Debug\Pass_Generator.exe
+C:\Users\Vain\source\repos\Pass_Generator\Pass_Generator\Pass_Generator\obj\Debug\Pass_Generator.pdb

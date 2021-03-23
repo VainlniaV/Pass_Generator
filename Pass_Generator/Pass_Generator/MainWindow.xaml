@@ -5,8 +5,18 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Pass_Generator"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Générateur de mots de passe" Height="483.333" Width="314.444">
     <Grid>
-        
+        <Label x:Name="label" Content="Nombre de caractère :" Grid.Column="1" HorizontalAlignment="Left" Margin="6,10,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbNbChar" HorizontalAlignment="Left" Height="23" Margin="139,13,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="38" TextAlignment="Left" PreviewTextInput="tbNbChar_PreviewTextInput"/>
+        <Label x:Name="label1" Content="Nombres acceptés ?" Grid.Column="1" HorizontalAlignment="Left" Margin="10,57,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Caractères spéciaux ?" Grid.Column="1" HorizontalAlignment="Left" Margin="10,99,0,0" VerticalAlignment="Top"/>
+        <RadioButton GroupName="Number" x:Name="rbNumberYes" Content="Oui" HorizontalAlignment="Left" Margin="139,63,0,0" VerticalAlignment="Top" IsChecked="True"/>
+        <RadioButton GroupName="Number" x:Name="rbNumberNo" Content="Non" HorizontalAlignment="Left" Margin="207,63,0,0" VerticalAlignment="Top"/>
+        <RadioButton GroupName="Char" x:Name="rbSpecYes" Content="Oui" HorizontalAlignment="Left" Margin="139,105,0,0" VerticalAlignment="Top" IsChecked="True" Grid.RowSpan="2"/>
+        <RadioButton GroupName="Char" x:Name="rbSpecNo" Content="Non" HorizontalAlignment="Left" Margin="207,105,0,0" VerticalAlignment="Top" Grid.RowSpan="2"/>
+        <Button x:Name="btnGenerate" Content="Générer" HorizontalAlignment="Left" Margin="102,151,0,0" VerticalAlignment="Top" Width="75" Click="btnGenerate_Click"/>
+        <TextBox IsReadOnly="True" x:Name="tbPassword" HorizontalAlignment="Left" Height="23" Margin="14,193,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="282"/>
+
     </Grid>
 </Window>
